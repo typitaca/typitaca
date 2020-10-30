@@ -46,3 +46,7 @@ You need to install the following softwares.
 ## Copyright
 
 Copyright 2020, Typitaca developers All Rights reserved.
+
+The scripts for configuring the Typitaca distribution are published
+under the MIT license. The licenses for the libraries and processing systems
+included in the distribution follow the licenses specified by each project.
