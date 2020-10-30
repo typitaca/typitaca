@@ -2,10 +2,10 @@
 
 ## Motivation
 
-私達は次世代のCommon Lispのエコシステムとしてディストリビューション形式を提案します。
-従来のエコシステムではライブラリ間の依存関係の衝突やドキュメンテーションの不足が問題となっていました。
-そこで私達はHaskellやRacket, TeXに代表される定期的なディストリビューション形式を通じて、
-よくテストされドキュメンテーションが充実した整合性のあるCommon Lisp環境をユーザーに提供することを目的としています。
+We propose a distribution format as the next generation Common Lisp ecosystem. 
+In the traditional ecosystem, conflicting dependencies between libraries and lack of documentation have been problems.
+Therefore, we aim to provide users with a well-tested, well-documented and consistent Common Lisp environment
+through regular distribution formats such as Haskell, Racket, and TeX.
 
 ## Policy
 
