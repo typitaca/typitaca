@@ -19,6 +19,10 @@ through regular distribution formats such as Haskell, Racket, and TeX.
 
 - SBCL
 
+## Notice
+
+Thank you for all the interest in this project. However, do understand that this is very much a non-functional prototype. There's a huge amount of heavy lifting to do. Unless you are participating in that, please maintain radio silence on github. This includes submitting trivial PRs (like improving README build instructions).
+
 ## Copyright
 
 Copyright 2020, Typitaca developers All Rights reserved.
