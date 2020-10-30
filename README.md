@@ -21,4 +21,4 @@
 
 ## Copyright
 
-Copyright 2020, Typica developers All Rights reserved.
+Copyright 2020, Typitaca developers All Rights reserved.
