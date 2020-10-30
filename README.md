@@ -13,7 +13,7 @@ through regular distribution formats such as Haskell, Racket, and TeX.
 - We provide source code.
 - We provide documents for all libraries.
 - We updates libraries every 6 months.
-- We support no libraries out of distributions.
+- We support no libraries out of the distribution.
 
 ## Packages
 
