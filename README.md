@@ -39,7 +39,11 @@ This includes submitting trivial PRs (like improving README build instructions).
 You need to install the following softwares.
 
 - [vale](https://github.com/errata-ai/vale) -
-  Vale is a syntax-aware linter for prose built with speed and extensibility in mind.
+  Vale is a syntax-aware linter for prose built
+  with speed and extensibility in mind.
+- [editorconfig](https://editorconfig.org/) -
+  EditorConfig helps maintain consistent coding styles for multiple developers
+  working on the same project across various editors and IDEs. 
 - [roswell](https://github.com/roswell/roswell) -
   Roswell is a Lisp implementation installer/manager, launcher, and much more!
 
