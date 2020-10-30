@@ -1,5 +1,7 @@
 # Typitaca
 
+The Typitaca is a collection of software packages, tools and libraries that create a common platform for using and developing applications in Common Lisp. 
+
 ## Motivation
 
 We propose a distribution format as the next generation Common Lisp ecosystem. 
