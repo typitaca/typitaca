@@ -1,6 +1,6 @@
 # Typitaca
 
-The Typitaca is a collection of software packages, tools,
+The Typitaca is an opinionated collection of software packages, tools,
 and libraries that create a common platform for using and
 developing applications in Common Lisp.
 
